@@ -16,7 +16,8 @@ Collaboration is key in the world of data, and I’m eager to connect with fello
 
 - <b>Python</b>
   - [Analyzing Customer Segments and Purchasing Behavior in Retail Data](https://github.com/YelyzavetaBen/Project1/blob/main/README.md)
-  - [Evaluation of Trial Store Performance](https://github.com/YelyzavetaBen/Project2) 
+  - [Evaluation of Trial Store Performance](https://github.com/YelyzavetaBen/Project2)
+  - Exploratory Data Analysis of Uber Dataset
 - <b>PowerBI</b>
  
 - <b>Excel</b>
