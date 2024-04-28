@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Analyzing Customer Segments and Purchasing Behavior in Retail Data](https://github.com/YelyzavetaBen/Project1/blob/main/README.md)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Evaluation of Trial Store Performance and Strategic Recommendations for Chip Category Expansion](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Evaluation of Trial Store Performance and Strategic Recommendations for Chip Category Expansion](https://github.com/YelyzavetaBen/Project2) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
