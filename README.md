@@ -12,7 +12,7 @@ Welcome to my GitHub space! I'm a dedicated Data Analyst with a Bachelor's degre
 
 <b>👥 Looking to Collaborate:</b>
 Collaboration is key in the world of data, and I’m eager to connect with fellow data enthusiasts and professionals. Whether you're interested in discussing potential projects or exchanging ideas about the latest in data analytics, feel free to reach out!
-<h2>👨‍💻 Data Analysis Projects:</h2>
+<h2><span style="font-size: 48px;">👩‍💻</span> Data Analysis Projects:</h2>
 
 - <b>Python</b>
   - [Analyzing Customer Segments and Purchasing Behavior in Retail Data](https://github.com/YelyzavetaBen/Project1/blob/main/README.md)
