@@ -18,7 +18,7 @@ Collaboration is key in the world of data, and I’m eager to connect with fello
   - [Analyzing Customer Segments and Purchasing Behavior in Retail Data](https://github.com/YelyzavetaBen/Project1/blob/main/README.md)
   - [Evaluation of Trial Store Performance](https://github.com/YelyzavetaBen/Project2)
   - [Exploratory Data Analysis of Uber Dataset](https://github.com/YelyzavetaBen/Project3)
-  - [Forecasting life expectancy data with Exponential Smoothing and ARIMA models](https://github.com/YelyzavetaBen/Project4/tree/main)
+  - [Forecasting Life Expectancy data with Exponential Smoothing and ARIMA models](https://github.com/YelyzavetaBen/Project4/tree/main)
   - [Forecasting Monthly Milk Production data with seasonal ARIMA](https://github.com/YelyzavetaBen/Project5/tree/main?tab=readme-ov-file)
 - <b>PowerBI</b>
  
