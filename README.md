@@ -6,7 +6,7 @@ Welcome to my GitHub space! I'm a dedicated Data Analyst with a Bachelor's degre
 <b>🌟 Interests and Motivation:</b> I am constantly seeking to expand my knowledge and skills in data analysis. The field's rapid evolution drives my passion for continuous learning and applying new tools and methodologies. My goal is to not only understand but also anticipate trends and patterns, helping businesses to stay ahead of the curve.
 
 <b>🛠️ Skills & Tools:</b>
-- Statistical Analysis & Predictive Modeling: Using tools like Python for robust, data-driven insights.
+- Statistical Analysis & Predictive Modeling: Proficient in Python for robust, data-driven insights, particularly in time series forecasting using models such as ARIMA, SARIMA, exponential smoothing, and Prophet.
 - Data Visualization: Proficient in Excel and PowerBI to create compelling and informative visual representations of data.
 - Data Management: Experienced in SQL for efficient data querying and management
 
