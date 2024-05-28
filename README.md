@@ -19,6 +19,7 @@ Collaboration is key in the world of data, and I’m eager to connect with fello
   - [Evaluation of Trial Store Performance](https://github.com/YelyzavetaBen/Project2)
   - [Exploratory Data Analysis of Uber Dataset](https://github.com/YelyzavetaBen/Project3)
   - [Forecasting life expectancy data with Exponential Smoothing and ARIMA models](https://github.com/YelyzavetaBen/Project4/tree/main)
+  - [Forecasting Monthly Milk Production data with seasonal ARIMA]
 - <b>PowerBI</b>
  
 - <b>Excel</b>
