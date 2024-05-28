@@ -20,7 +20,7 @@ Collaboration is key in the world of data, and I’m eager to connect with fello
   - [Exploratory Data Analysis of Uber Dataset](https://github.com/YelyzavetaBen/Project3)
   - [Forecasting Life Expectancy data with Exponential Smoothing and ARIMA models](https://github.com/YelyzavetaBen/Project4/tree/main)
   - [Forecasting Monthly Milk Production data with seasonal ARIMA](https://github.com/YelyzavetaBen/Project5/tree/main?tab=readme-ov-file)
-  - [Forecasting Air Passengers data with Prophet and ARIMA with Fourier features]()
+  - [Forecasting Air Passengers data with Prophet and ARIMA with Fourier features](https://github.com/YelyzavetaBen/Project6)
 - <b>PowerBI</b>
  
 - <b>Excel</b>
