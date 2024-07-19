@@ -20,6 +20,7 @@ Collaboration is key in the world of data, and I’m eager to connect with fello
   - [Forecasting Life Expectancy data with Exponential Smoothing and ARIMA models](https://github.com/YelyzavetaBen/Project4/tree/main)
   - [Forecasting Monthly Milk Production data with seasonal ARIMA](https://github.com/YelyzavetaBen/Project5/tree/main?tab=readme-ov-file)
   - [Forecasting Air Passengers data with Prophet and ARIMA with Fourier features](https://github.com/YelyzavetaBen/Project6)
+  - [Telecom Call Center Trends Dashboard](https://github.com/YelyzavetaBen/Project7/blob/main/README.md)
 
 
 
