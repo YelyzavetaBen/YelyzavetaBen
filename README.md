@@ -24,7 +24,7 @@ Collaboration is key in the world of data, and I’m eager to connect with fello
   
 ## Power BI Projects
   - [Telecom Call Center Trends Dashboard](https://github.com/YelyzavetaBen/Project7/blob/main/README.md)
-  - [Customer Retention Dashboard for Telecom Industry](https://github.com/YelyzavetaBen/Project8/blob/main/README.md)
+  - [Customer Retention Dashboard](https://github.com/YelyzavetaBen/Project8/blob/main/README.md)
 
 
 
