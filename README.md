@@ -14,14 +14,17 @@ Welcome to my GitHub space! I'm a dedicated Data Analyst with a Bachelor's degre
 Collaboration is key in the world of data, and I’m eager to connect with fellow data enthusiasts and professionals. Whether you're interested in discussing potential projects or exchanging ideas about the latest in data analytics, feel free to reach out!
 <h2><span style="font-size: 48px;">👩‍💻</span> Data Analysis Projects:</h2>
 
+## Python Projects
   - [Analyzing Customer Segments and Purchasing Behavior in Retail Data](https://github.com/YelyzavetaBen/Project1/blob/main/README.md)
   - [Evaluation of Trial Store Performance](https://github.com/YelyzavetaBen/Project2)
   - [Exploratory Data Analysis of Uber Dataset](https://github.com/YelyzavetaBen/Project3)
   - [Forecasting Life Expectancy data with Exponential Smoothing and ARIMA models](https://github.com/YelyzavetaBen/Project4/tree/main)
   - [Forecasting Monthly Milk Production data with seasonal ARIMA](https://github.com/YelyzavetaBen/Project5/tree/main?tab=readme-ov-file)
   - [Forecasting Air Passengers data with Prophet and ARIMA with Fourier features](https://github.com/YelyzavetaBen/Project6)
+  
+## Power BI Projects
   - [Telecom Call Center Trends Dashboard](https://github.com/YelyzavetaBen/Project7/blob/main/README.md)
-  - [](https://github.com/YelyzavetaBen/Project8/blob/main/README.md)
+  - [Customer Retention Dashboard for Telecom Industry](https://github.com/YelyzavetaBen/Project8/blob/main/README.md)
 
 
 
