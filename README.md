@@ -27,7 +27,7 @@ Collaboration is key in the world of data, and I’m eager to connect with fello
   - [Customer Retention Dashboard](https://github.com/YelyzavetaBen/Project8/blob/main/README.md)
 ## SQL Projects
   - [SQL for Film Analytics: From Queries to Insights](https://github.com/YelyzavetaBen/Project7/blob/main/README.md)
-  - [Customer Retention Dashboard](https://github.com/YelyzavetaBen/Project8/blob/main/README.md)
+  - [Optimizing Facility Management through Advanced SQL Analytics](https://github.com/YelyzavetaBen/Project8/blob/main/README.md)
 
 
 
