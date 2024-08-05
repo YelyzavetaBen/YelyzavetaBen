@@ -26,7 +26,7 @@ Collaboration is key in the world of data, and I’m eager to connect with fello
   - [Telecom Call Center Trends Dashboard](https://github.com/YelyzavetaBen/Project7/blob/main/README.md)
   - [Customer Retention Dashboard](https://github.com/YelyzavetaBen/Project8/blob/main/README.md)
 ## SQL Projects
-  - [SQL for Film Analytics: From Queries to Insights](https://github.com/YelyzavetaBen/Project7/blob/main/README.md)
+  - [SQL for Film Analytics: From Queries to Insights](https://github.com/YelyzavetaBen/sql1/blob/main/SQL%20for%20Film%20Analytics.pptx)
   - [Optimizing Facility Management through Advanced SQL Analytics](https://github.com/YelyzavetaBen/Project8/blob/main/README.md)
 
 
